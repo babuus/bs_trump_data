@@ -1,4 +1,4 @@
-## beautiful soup
+## Beautiful soup
 Just run the jupyter notebook that has the following 16 lines
 ## 16 lines of Python code
 
